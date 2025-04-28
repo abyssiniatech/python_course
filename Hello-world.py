@@ -1,0 +1,1 @@
+print("Hello these is Python and django ccourse")
